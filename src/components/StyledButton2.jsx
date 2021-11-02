@@ -1,4 +1,4 @@
-import styled, {css} from 'styled-components';
+import styled from 'styled-components';
 
 const StyledButton2 = styled.h1`
   color: yellow;
